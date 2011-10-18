@@ -11,7 +11,7 @@ require_once('Sag.php');
 
 /**
  * Couchsag codeigniter library to access Sag driver for couch db.
- * See Sag.php for more information.
+ * See Sag.php for more information...
  */
 class Couchsag
 {
